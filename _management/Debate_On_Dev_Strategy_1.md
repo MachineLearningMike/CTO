@@ -34,3 +34,9 @@ A breakdown of the development project is suggested here in order to:
 </p>
 
   
+<br/> <br/>
+
+#### 4. More attempts to come
+
+- Samples of research, report, architectural design, etc. will be provided
+- 
