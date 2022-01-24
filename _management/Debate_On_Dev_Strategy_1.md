@@ -30,7 +30,7 @@ A breakdown of the development project is suggested here in order to:
 <br/> <br/>
 
 <p align="center">
-  <img src="..\_images\Logical_Tasks_And_Relations.PNG" width="1280" title="hover text">
+  <img src="..\_images\Logical_Tasks_And_Relation.png" width="1280" title="hover text">
 </p>
 
   
@@ -38,5 +38,6 @@ A breakdown of the development project is suggested here in order to:
 
 #### 4. More attempts to come
 
+- 
 - Samples of research, report, architectural design, etc. will be provided
 - 
