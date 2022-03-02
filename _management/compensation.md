@@ -185,7 +185,7 @@ This section discusses the term Value(post-attack net income).
 - We can retrieve all the transaction records from the block chain.
 - A user's post-attack transactions, on the Crosswise v1 DeFi, consists of add/remove liquidity and sell/buy Crss.
 - Sell/buy Crss should be via swap.
-- post-attack net income should be quoted by Bnb or Busd, because there are only Crss/Bnb and Crss/Busd pools.
+- post-attack net income should be denominated by Bnb or Busd, because there are only Crss/Bnb and Crss/Busd pools.
 
 So, the **post-attack net income** is 
 - the net amount of Bnb (or Busd) the user gained by swapping with/for Crss.
@@ -219,7 +219,7 @@ It is clear that:
 
 **What we achieved in the above discussion is**:
 - **We checked our intuition of compensation in a bit formal, rigorous discussion**
-- It's now more likely that we can **reduce the compensation amount and be fair** to both the community and us.
+- It's now more likely that we can **reduce the compensation amount yet be fair** to both the community and us.
 
 
 ## Study is going on, until we get program code.
